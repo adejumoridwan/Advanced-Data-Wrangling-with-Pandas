@@ -1,0 +1,38 @@
+---
+title: "Course Overview & Why Advanced Wrangling?"
+format:
+  revealjs:
+    slide-level: 2
+    preview-links: auto
+---
+
+
+- Data is the lifeblood of modern organizations
+- Cleaning, transforming, and preparing data is a crucial step
+- Pandas is a powerful Python library for data manipulation
+
+## 
+
+![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0BFL-TZ-sb8eG3tf0vUDKulc1aiQjO0Q7zy4mDTVN5w&s){width=500,height=500}
+
+## Why this Course?
+- This course builds on basic Pandas knowledge
+- Learn advanced techniques for complex data wrangling tasks
+- Gain skills to handle messy, real-world datasets efficiently
+- Explore best practices for data cleaning and transformation
+
+## Why Advanced Wrangling?
+
+- Real-world data is often dirty, inconsistent, and complex
+- Basic techniques are not enough for challenging datasets
+- Advanced skills enable faster, more robust data preparation
+- Better data quality leads to more accurate insights and decisions
+
+## Course Objectives:
+
+- Master advanced indexing and selection techniques
+- Perform complex data transformations and reshaping
+- Handle missing data and data cleaning challenges
+- Combine and merge datasets from multiple sources
+- Leverage Pandas' performance optimization methods
+- Explore data wrangling best practices and case studies
