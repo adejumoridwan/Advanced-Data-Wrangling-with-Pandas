@@ -1,0 +1,1001 @@
+student_id,name,age,gender,major,GPA,grad_year
+85620096,Angela Kane,25,Female,Business,3.19,2025
+92513487,Maureen Martin,22,Female,Biology,1.21,2023
+59944121,Juan Williams,22,Male,Business,2.18,2024
+44382422,Jesus Stout,20,Other,Business,3.85,2023
+10118734,James White,25,Female,Psychology,3.09,2023
+12984882,Emma Rice,24,Other,Computer Science,2.43,2024
+36705987,Jeffrey Finley,20,Male,Psychology,1.97,2024
+37629652,Donna Decker,24,Other,Engineering,2.41,2024
+18015288,Brenda Morris,25,Male,Biology,3.24,2024
+96793116,Javier White,21,Male,Business,3.61,2024
+27352814,Brandon Gould,25,Other,Computer Science,3.11,2025
+37755029,Megan Calderon,25,Male,Business,3.46,2023
+54337542,John Gill,24,Female,Computer Science,2.51,2024
+58247980,Samantha Miller,23,Female,Engineering,2.96,2025
+36188727,Pamela Rogers,22,Other,Engineering,2.9,2025
+407944,Carrie Martin,20,Female,Psychology,2.59,2024
+81529981,Michael Roberts,25,Female,Psychology,3.89,2025
+62180799,Megan Cook,25,Male,Psychology,1.91,2024
+92947659,David Garcia,25,Other,Engineering,3.0,2024
+94981087,Scott Jones,22,Male,Business,1.48,2025
+83611755,Abigail Walker,22,Male,Engineering,3.52,2023
+70378252,Stacey Floyd,25,Other,Psychology,3.39,2023
+48538092,Thomas Owen,25,Male,Computer Science,2.42,2025
+84099837,Stacy Fischer MD,24,Other,Psychology,3.16,2025
+25148655,Angela Lopez,23,Female,Biology,2.41,2024
+15239847,Daniel Finley,19,Female,Psychology,3.32,2023
+5668702,Ronald Ruiz,21,Female,Computer Science,3.63,2024
+19939915,Thomas Russell,20,Other,Psychology,1.7,2024
+68312333,Daniel Sandoval,18,Other,Biology,2.23,2023
+16346337,Elizabeth Mathis,19,Female,Business,3.37,2024
+28769216,Eric Clark,22,Female,Biology,1.86,2025
+58511160,Brian Henderson,20,Male,Computer Science,3.2,2025
+75841042,Anthony Jones,21,Male,Computer Science,1.98,2025
+52841656,Joshua Howard,23,Male,Psychology,2.8,2024
+42353586,Christopher Forbes,24,Other,Psychology,2.85,2024
+43108360,Anthony Ramos,21,Other,Computer Science,1.82,2023
+1502996,Anthony Obrien,21,Other,Engineering,2.7,2025
+21420865,Eric Williams,19,Female,Computer Science,2.13,2024
+71019799,Kayla Smith,19,Male,Biology,2.66,2023
+81996898,Mr. Michael Davis,24,Male,Computer Science,3.62,2023
+80576604,Ann Webb,21,Other,Business,1.58,2023
+4635245,Marvin Williams,22,Male,Computer Science,1.21,2023
+66641760,Megan Rosales,20,Other,Business,1.74,2024
+55366739,Ashley Rodriguez,21,Male,Computer Science,3.7,2024
+8118168,Kathleen Garcia,18,Male,Business,1.41,2025
+49474338,Jacqueline Ellis,18,Male,Engineering,3.59,2023
+20177988,Jonathan Morgan,24,Other,Psychology,1.39,2024
+9067482,Eric Hall,21,Male,Psychology,3.65,2024
+82863701,Mary Peters,18,Male,Engineering,3.84,2025
+86153476,Jenna Chambers,18,Male,Business,3.42,2023
+63116210,Susan Calhoun,22,Male,Biology,1.68,2024
+42826449,Jason Hale,22,Other,Biology,1.0,2023
+73559128,Wayne Jackson,19,Other,Engineering,2.11,2023
+4013203,Kimberly Coleman,20,Male,Computer Science,1.37,2025
+79624401,Danielle Hernandez,25,Female,Engineering,2.73,2025
+1815062,Joseph Johnson,20,Male,Computer Science,1.84,2024
+64984867,George Turner,21,Female,Biology,2.42,2025
+17833669,Donna Figueroa,18,Female,Engineering,3.82,2024
+1127919,Debra Lam,19,Other,Biology,3.78,2025
+43853743,Mr. Joshua Gay,24,Other,Engineering,2.92,2024
+11034647,John Hill,22,Male,Biology,2.66,2024
+28297459,Christopher Davis,18,Other,Computer Science,2.09,2023
+55627226,Jennifer Davis,22,Other,Psychology,2.11,2024
+60557455,Michael Mack,19,Female,Engineering,2.17,2025
+93820407,Logan Clark,23,Male,Psychology,1.32,2025
+21741956,Brenda Morris,18,Female,Psychology,2.18,2025
+58170325,Sean Davis,19,Female,Computer Science,2.08,2025
+67445714,Jason Barnes,21,Male,Business,2.67,2023
+35313219,Amanda Beck,20,Male,Psychology,1.44,2025
+6872935,Jennifer Adams,25,Female,Engineering,2.42,2024
+38004100,Adrian Webb,21,Male,Computer Science,3.31,2025
+84959594,Dennis Sullivan,19,Female,Psychology,3.2,2025
+65307108,Richard Smith,21,Other,Computer Science,3.34,2024
+18461071,Lori West,24,Female,Engineering,1.87,2023
+57548998,David Clayton,22,Other,Biology,3.52,2023
+92905578,Jennifer Ramirez,18,Male,Psychology,2.61,2023
+87979531,Beverly Brown,22,Other,Engineering,3.72,2023
+38576775,Donald Martin,22,Other,Biology,1.61,2024
+90313461,Matthew King,20,Other,Psychology,2.36,2024
+70317159,Jessica Sawyer,22,Male,Computer Science,3.78,2025
+50314930,Courtney Tucker,24,Other,Business,1.62,2023
+13620570,Jeffrey Rodriguez,24,Male,Computer Science,2.12,2023
+14960590,Holly Alvarado,23,Male,Computer Science,3.58,2025
+55545995,Elizabeth Smith,20,Male,Psychology,2.93,2023
+39342379,Charles Mendoza MD,21,Other,Psychology,3.81,2024
+79822964,Ronald Park,24,Female,Business,3.03,2025
+61895545,Cheryl Thompson,22,Female,Engineering,3.98,2023
+82612940,Amy Munoz,22,Female,Psychology,1.7,2023
+17497337,Geoffrey Buchanan,18,Female,Biology,1.11,2023
+33461978,Megan Stevenson,19,Male,Engineering,1.11,2024
+79653942,Angelica Hoffman,23,Female,Biology,1.36,2025
+65676380,Teresa Hill,18,Other,Biology,2.59,2023
+33279088,Joseph Davis,19,Female,Business,2.28,2024
+86494520,Regina Short,24,Male,Engineering,2.03,2024
+15127696,Jonathan Pierce,19,Male,Biology,3.74,2024
+17547730,Michael Parsons,20,Male,Engineering,2.04,2025
+24724883,Laurie Chapman,25,Other,Business,1.65,2024
+29918782,Jason Burns,20,Male,Psychology,2.15,2023
+86448740,Hunter Moore,24,Male,Business,3.42,2025
+66226494,George Rowe,24,Other,Engineering,1.98,2025
+80673101,Sherri Taylor,19,Female,Engineering,3.16,2024
+52293537,Dr. Richard Costa,25,Female,Computer Science,3.87,2023
+98786431,Danielle Hunter,19,Male,Engineering,1.57,2024
+91687382,Alexandra Daniel,21,Female,Psychology,1.5,2025
+55869376,Travis Stewart,20,Female,Computer Science,2.62,2023
+27341621,Kelsey Hardy,21,Male,Engineering,2.89,2025
+60597102,David Flores,19,Other,Business,3.95,2025
+57718930,Steven Wilson,22,Other,Business,1.86,2023
+47530934,Kristine Carter,18,Female,Engineering,1.35,2023
+83986817,Angie Walsh,18,Other,Business,1.44,2024
+47022983,Margaret Brown,25,Male,Biology,2.39,2025
+49403829,Rachel Bush,23,Female,Computer Science,3.79,2023
+92355268,Frederick Harrison,18,Male,Biology,3.68,2024
+10079765,Jennifer Mcdonald,23,Male,Business,2.37,2025
+57284097,Robert Ford,18,Female,Computer Science,1.27,2024
+69751945,Julian Kelly,23,Other,Biology,3.48,2024
+72455263,Jesse Lewis,22,Other,Engineering,2.22,2024
+54359024,Diane James,19,Male,Business,3.08,2023
+28135689,Amy Mckee,20,Male,Business,1.95,2023
+87028274,Courtney Clark,21,Male,Engineering,3.42,2023
+8206333,Justin Walters,20,Other,Computer Science,3.33,2024
+81794206,John Lewis,19,Male,Biology,2.13,2024
+48525691,Vanessa Taylor,18,Female,Psychology,1.54,2025
+35023281,Joseph Clements,18,Other,Psychology,1.48,2023
+74797567,Ashley Taylor,25,Female,Business,3.12,2024
+99439838,Nathan Wiggins,23,Male,Computer Science,2.16,2025
+86647541,Kelly Jackson,25,Male,Computer Science,1.83,2024
+88039018,Edward Cox,23,Other,Psychology,2.72,2025
+32433663,Leslie Lewis,20,Other,Computer Science,1.46,2025
+79798611,Mckenzie Thomas,23,Male,Engineering,1.22,2023
+96005668,James Smith,19,Female,Psychology,2.93,2023
+67840931,Daniel Gomez,18,Male,Psychology,3.12,2025
+96473412,Colleen Coleman MD,23,Male,Psychology,2.8,2023
+44131062,Michael Orr,24,Male,Computer Science,2.82,2025
+66927801,Amy Finley,20,Female,Business,1.84,2024
+21133272,Jonathan Rodriguez,21,Female,Psychology,3.32,2024
+12885163,Jennifer Ritter,20,Other,Biology,2.29,2025
+93603471,Bruce Cobb,21,Female,Business,1.81,2025
+57793150,Brian Roberts,25,Male,Engineering,1.52,2025
+6364452,Bryan Davis,23,Other,Psychology,3.75,2023
+41411185,Holly Fuller,25,Other,Engineering,2.81,2024
+67847677,Amber Jackson,22,Other,Business,3.93,2023
+29433142,Mary Sparks,22,Other,Computer Science,2.22,2024
+28924202,Denise Taylor,21,Male,Engineering,2.96,2023
+20808174,John Pruitt,24,Other,Computer Science,2.97,2024
+8888608,Ann Martinez,19,Other,Biology,2.88,2023
+25229848,Darren Garcia,20,Female,Biology,1.68,2023
+2016127,Wyatt Clark,19,Other,Engineering,3.06,2024
+45494295,Shawn Fuller,24,Male,Computer Science,2.78,2023
+55887926,Jeffrey Bruce,23,Other,Business,1.45,2025
+22246990,Mr. Thomas Benitez,21,Female,Biology,3.46,2023
+43038960,Laura Gibson,25,Female,Biology,1.25,2025
+4641618,Heather Morris,21,Other,Psychology,1.67,2024
+33084452,Kimberly Murphy,22,Female,Business,1.61,2025
+95967602,Desiree Rivers,19,Male,Psychology,1.43,2023
+52777292,Brian Lewis MD,19,Female,Engineering,2.71,2023
+64038854,Mr. Michael Werner,18,Male,Business,2.76,2023
+80741035,Alexander Andersen,25,Female,Psychology,1.94,2024
+79285384,Nicholas Collier,21,Other,Computer Science,1.42,2025
+92087502,Jesse Gallagher,21,Other,Computer Science,1.82,2025
+9854602,Joe Alexander,25,Male,Engineering,2.79,2025
+18473423,Eric Mccarthy,23,Male,Biology,2.96,2025
+53595886,Christopher Fletcher,20,Other,Engineering,1.6,2024
+34732054,John Mclaughlin,24,Female,Psychology,2.46,2024
+66335839,Angela Wilkerson,25,Male,Engineering,2.46,2025
+81982892,Melissa Jimenez,18,Female,Business,3.9,2023
+2481498,Jeffrey Taylor,24,Male,Business,2.48,2024
+67248393,Tammy Nunez,20,Other,Psychology,1.32,2024
+99077829,Nathan Torres,22,Female,Biology,3.8,2025
+83061428,Kathleen Brooks,25,Female,Computer Science,2.62,2025
+66308830,Gloria Gregory,18,Other,Business,1.15,2023
+75617900,Kristina Cowan,21,Female,Engineering,3.97,2023
+76780947,Gary Mcpherson,25,Other,Biology,1.79,2023
+73204338,Becky Cummings,19,Male,Biology,1.42,2025
+95300056,Julie Ball,21,Male,Computer Science,3.4,2023
+65140554,Carl Miller,21,Other,Computer Science,1.16,2024
+46273638,Kelsey Jackson,25,Male,Psychology,1.13,2023
+2765484,Jordan Pacheco,22,Male,Psychology,3.27,2024
+33688040,Samantha Perkins,23,Male,Biology,1.79,2023
+26400105,Jason Reeves,21,Female,Business,1.81,2023
+5992620,Tammy Woods,24,Other,Business,3.36,2024
+56174536,Brittney Crawford,19,Other,Psychology,2.85,2024
+88068347,Sarah Davidson,22,Male,Engineering,2.42,2025
+42059337,Cynthia Smith,25,Female,Psychology,3.64,2025
+47824887,Becky Reeves,23,Male,Engineering,2.2,2023
+96369008,Joseph Lee,19,Female,Biology,1.57,2025
+14011066,Jessica Silva,23,Male,Engineering,3.12,2025
+81127480,Daniel Adkins,20,Other,Psychology,2.81,2023
+66378350,Megan Cardenas,25,Male,Business,3.37,2023
+95948145,Leslie Williams,25,Other,Computer Science,2.57,2025
+7026920,Larry Garcia,21,Female,Computer Science,3.63,2025
+44494520,Robert Long,24,Other,Business,3.25,2024
+75338455,Larry Black,22,Female,Computer Science,2.67,2025
+39725627,Glen Martinez,24,Male,Engineering,3.7,2023
+22406360,Frank Brown,22,Male,Psychology,1.35,2025
+20237311,Alexa Robinson,21,Female,Computer Science,3.74,2025
+66698870,Isabella Terry,22,Male,Engineering,1.59,2024
+30505180,Diamond Parrish,19,Male,Business,2.83,2023
+70069569,Kelly Lee,18,Male,Biology,3.45,2023
+14053343,Malik Ortiz,19,Other,Business,1.2,2025
+56711175,Jennifer Werner,25,Other,Psychology,2.57,2024
+18252984,James Jimenez,18,Male,Psychology,1.23,2024
+12752884,Sherry Martinez,19,Other,Business,3.91,2023
+44004488,George Baxter,23,Female,Biology,1.34,2024
+61885356,Barry Porter,22,Female,Biology,2.9,2025
+75651536,Rebecca Woods DDS,22,Female,Psychology,3.28,2025
+49693040,Caitlin Sanchez,20,Male,Biology,2.57,2025
+53915832,Mr. Kyle Schwartz,24,Male,Business,1.88,2023
+193668,Dana Schultz,18,Female,Computer Science,1.42,2025
+16860786,Edwin English,24,Male,Engineering,2.93,2024
+8220718,Benjamin Kennedy,24,Male,Computer Science,3.11,2025
+52968810,Todd Sullivan,25,Other,Psychology,2.89,2024
+5835193,Allison Brown,21,Female,Engineering,3.2,2024
+56034173,Karen Nguyen,23,Female,Engineering,1.89,2025
+70046733,Kelly Roberts,20,Male,Business,3.33,2025
+20400658,Elizabeth James,23,Male,Computer Science,2.21,2024
+55044168,Jeffrey Miller,23,Male,Psychology,1.64,2023
+52496075,Stephanie Fowler,23,Male,Psychology,3.87,2024
+65113811,Connie Chavez,20,Other,Business,3.31,2023
+49914462,Matthew Johnson,20,Male,Biology,3.06,2025
+54047631,April Fuller,20,Male,Biology,1.03,2025
+94452187,Michael Anderson,22,Male,Engineering,2.31,2025
+43944294,Amy Guzman,19,Male,Business,1.49,2023
+39058291,Maria Mendoza,25,Other,Biology,3.1,2023
+77331410,Albert Guerrero,19,Male,Computer Science,1.3,2024
+16525748,Glenn Avery,22,Male,Computer Science,3.84,2025
+24557347,Samuel Horton,22,Other,Business,2.44,2025
+92697323,Paul Rodriguez,24,Female,Engineering,2.85,2024
+53399702,Lisa Gardner,24,Other,Psychology,2.16,2025
+6502371,James Torres,18,Male,Business,3.21,2024
+38840205,Mary Reynolds,20,Male,Psychology,1.14,2023
+58608921,Karen Bean,24,Female,Computer Science,1.68,2023
+86212967,Deborah Mann,23,Other,Business,2.49,2025
+54476618,Ruth Matthews,18,Male,Engineering,1.1,2023
+40886992,Evan Todd,23,Female,Psychology,2.32,2024
+45641173,John Rodriguez,21,Other,Business,2.93,2025
+43545198,Michele Pruitt DDS,18,Other,Biology,1.2,2025
+89451462,Vickie Payne,19,Female,Engineering,1.74,2025
+20809940,Barbara Davis,25,Male,Biology,1.38,2023
+91469747,Charles Valdez,25,Male,Business,2.29,2023
+4437848,Catherine Hendricks,25,Female,Psychology,1.8,2024
+23730435,Alyssa Ayala,18,Female,Computer Science,1.76,2023
+12482724,Stephen Estrada,23,Female,Business,3.73,2024
+79379570,Elizabeth Hall,20,Female,Psychology,3.8,2025
+77414932,Linda Smith,23,Male,Biology,1.78,2023
+90948591,Joseph Warner,22,Female,Engineering,2.75,2023
+63226238,Amy Wood,25,Male,Computer Science,1.98,2023
+97876159,Cheryl Atkinson,18,Male,Biology,2.57,2023
+3811076,Evelyn Taylor,24,Female,Computer Science,2.49,2025
+30299873,Laura Malone,22,Female,Biology,3.04,2024
+52401525,Alexa Madden,18,Female,Biology,2.38,2024
+14903972,Lisa Macias,25,Male,Computer Science,2.32,2025
+1577036,William Potter,20,Female,Computer Science,1.59,2023
+96427480,Helen Bird,21,Male,Business,1.27,2025
+60595096,Karen Walton,22,Other,Computer Science,2.58,2023
+76626166,Julie Dean,25,Male,Business,2.86,2023
+73189631,Edward Torres,21,Female,Engineering,2.91,2024
+55705764,Jonathan Brown,22,Male,Engineering,1.03,2024
+809820,Jill Smith,19,Other,Psychology,2.06,2025
+78996639,Anthony Miller,24,Male,Biology,3.44,2024
+50274647,Darren Jensen,25,Male,Business,2.19,2023
+11007922,John Cooper,22,Other,Engineering,2.8,2025
+83240962,Tim Middleton,20,Male,Engineering,3.38,2024
+72333351,Robert Clark,23,Male,Business,2.8,2023
+19477254,Jane Valencia,24,Female,Psychology,1.9,2023
+21748677,Jason Schmidt,20,Female,Computer Science,1.18,2025
+67728407,Paula Cook,25,Male,Engineering,3.33,2024
+93657852,James Heath,24,Male,Business,2.12,2025
+78685407,Jeffrey Leonard,24,Female,Psychology,1.36,2023
+98000204,Charles Johnson,22,Male,Business,3.97,2024
+45260675,Carolyn Richmond,22,Other,Engineering,3.56,2024
+28924982,Dr. Brittany Smith DVM,18,Other,Computer Science,2.09,2024
+64455954,Kimberly Gibbs,20,Female,Computer Science,2.37,2024
+15444332,Tyler Rogers,18,Male,Engineering,1.67,2025
+48713372,Tina Bennett,22,Other,Engineering,3.77,2024
+63873153,Leslie Thornton,21,Other,Engineering,1.94,2023
+71173283,Judy Harris,20,Female,Psychology,2.99,2025
+47085395,Melinda Simmons,25,Female,Psychology,2.85,2024
+48198093,Vanessa Harrington,24,Other,Business,2.67,2023
+6281435,Charles Lewis,18,Other,Psychology,1.98,2024
+40426745,Thomas Villanueva,19,Male,Computer Science,1.77,2023
+99051480,Nicholas Maxwell,20,Other,Biology,3.91,2024
+93383835,Brian Ibarra,23,Female,Computer Science,1.05,2023
+64404878,Jessica Hopkins,20,Other,Business,2.63,2023
+79348779,Cory Atkinson,24,Female,Biology,1.04,2025
+81278298,Jacob Davis,25,Male,Biology,3.9,2023
+46940115,Terri Mendoza,24,Other,Business,2.86,2024
+97357868,Brian Little,23,Other,Biology,2.1,2023
+23074341,Roy Peck,22,Female,Psychology,2.42,2025
+86745528,Jessica Paul,18,Female,Engineering,1.52,2024
+82870643,Emily Smith,20,Female,Business,3.47,2024
+81813369,Gregory Singleton,25,Male,Business,1.6,2024
+48822004,Brian Watkins,21,Female,Computer Science,1.48,2025
+2233052,Julia Shah,21,Other,Engineering,1.05,2025
+64336390,Brandon Conley,20,Other,Engineering,2.16,2023
+93038939,Terri Monroe,22,Other,Biology,1.94,2025
+80926360,Chelsey Lynn,21,Female,Engineering,1.74,2025
+11983440,Diane Proctor,20,Other,Biology,2.55,2025
+32432759,Daniel Lee,20,Female,Engineering,3.28,2025
+10378212,Kim Castro,25,Other,Biology,2.82,2023
+18466675,Jason Johnson,19,Other,Computer Science,3.36,2023
+42707608,Donna Trevino,23,Other,Computer Science,2.87,2023
+78387501,Veronica Hernandez,20,Male,Psychology,2.5,2025
+23272653,Jeffery Sanchez,24,Other,Business,2.09,2023
+27777385,John Brown,19,Male,Business,2.89,2023
+60465436,Lisa Williams,24,Other,Business,2.35,2023
+6578369,Latasha Rodriguez,25,Other,Business,1.41,2024
+76427560,Lisa Drake,19,Male,Psychology,3.19,2025
+78663892,April Woodard,20,Other,Psychology,2.59,2025
+58839865,Steven Johnson,19,Other,Business,3.43,2023
+64148581,Joshua Aguilar,25,Male,Biology,3.78,2023
+87350094,Parker Johnson,23,Other,Engineering,3.32,2024
+55853887,Nicholas Morris,25,Male,Business,3.16,2024
+36865961,Matthew Thompson,18,Other,Psychology,1.29,2024
+68764849,Douglas Hoffman Jr.,23,Female,Business,3.67,2023
+67314072,Heather Miller,18,Female,Engineering,3.34,2024
+88383440,Lauren Munoz,19,Other,Engineering,1.33,2025
+25996700,Vanessa Wilkerson,25,Male,Computer Science,3.91,2024
+4355777,Jermaine Wolf,23,Other,Computer Science,3.13,2024
+74278156,Christopher Kelley,24,Female,Engineering,3.0,2024
+28512752,Catherine Curtis,24,Other,Psychology,1.74,2023
+79145425,Albert Gutierrez,18,Female,Biology,2.8,2023
+82645426,Erin Hood,24,Other,Computer Science,3.51,2023
+15473518,Timothy Duffy,23,Male,Engineering,2.0,2023
+43821110,Samantha Peterson,20,Male,Computer Science,2.06,2023
+34742662,Charlene Taylor,20,Other,Computer Science,2.66,2024
+64085912,Bruce Holland DVM,19,Other,Engineering,3.2,2025
+72931351,Veronica Woods,21,Female,Business,3.43,2023
+98615847,Stacy Schmidt,19,Male,Psychology,1.72,2023
+14706315,Jessica Norris,22,Male,Biology,1.0,2025
+49453651,Kyle Gates,21,Male,Business,1.64,2024
+5992263,Stephen Hill,22,Other,Biology,2.55,2023
+76826532,Melissa Meyer,20,Other,Computer Science,3.65,2024
+22104647,Debra Jones,18,Other,Biology,3.65,2025
+67390216,Deanna Esparza,23,Female,Psychology,3.63,2023
+45634904,John George,18,Male,Engineering,3.25,2025
+20418603,Anita James,24,Other,Business,3.91,2024
+52378372,Michael Kirby,24,Male,Business,2.73,2024
+7232482,Erin Young,18,Female,Business,2.91,2023
+36529540,Justin Williams,20,Other,Engineering,2.71,2024
+12923597,Matthew Roberson,24,Male,Biology,2.15,2025
+16360938,Ryan Smith,19,Male,Biology,1.05,2025
+7507276,Eric King,25,Male,Computer Science,3.74,2023
+12174967,Eric Henderson,22,Other,Biology,2.82,2023
+67117919,Annette Rodriguez,18,Male,Computer Science,2.81,2025
+93273141,Joel Hurst,18,Male,Computer Science,3.95,2024
+10098281,Scott Vega,23,Other,Engineering,3.14,2024
+26104965,Samantha Wilcox,21,Other,Business,3.66,2024
+13666839,Donna Diaz,21,Female,Biology,2.94,2024
+38260916,Michael Chapman,20,Other,Biology,1.49,2023
+70289161,Charlene Bautista,20,Male,Engineering,2.72,2024
+4944908,Jennifer Waller,23,Other,Business,2.69,2024
+56030878,Kathleen Perry,20,Male,Biology,1.94,2023
+52047115,Joe Trujillo,20,Other,Engineering,2.88,2025
+27779110,Daniel Hernandez,20,Other,Business,2.07,2024
+74516250,Scott Williams,22,Male,Psychology,2.74,2025
+92682172,Tyler Cox,23,Male,Psychology,1.93,2025
+74684150,Samantha Ford,19,Male,Biology,2.96,2023
+57186408,Cassandra Greene,19,Female,Business,3.5,2023
+47633360,Johnny Porter,19,Female,Computer Science,3.55,2025
+85473665,Lori Taylor,18,Female,Psychology,2.08,2023
+3460687,Amanda Huynh,25,Male,Biology,1.1,2024
+2824787,John Cordova,24,Other,Computer Science,3.93,2023
+56257729,Alicia Williams,21,Other,Business,3.95,2024
+33575995,Alexandria White,24,Other,Engineering,3.24,2023
+15346803,Jeffrey Kelley,22,Female,Biology,2.88,2025
+16190809,Tamara Ray,25,Female,Psychology,3.63,2023
+16418974,Steven Dillon,24,Male,Biology,3.29,2023
+66170128,Tyler Alexander,19,Male,Engineering,1.48,2023
+76519514,Jamie Smith,18,Female,Engineering,1.15,2023
+25441948,Tonya Leonard,25,Male,Engineering,2.77,2024
+54055531,Richard Owen,21,Other,Biology,2.46,2023
+47926880,Brandon Novak,24,Other,Computer Science,3.12,2024
+24702543,Angela Scott,25,Female,Psychology,3.73,2023
+25253876,Chloe Smith,22,Other,Engineering,2.52,2025
+87866217,Mario Morrison,21,Female,Business,2.5,2025
+816821,Mckenzie Miranda,20,Male,Biology,2.7,2023
+8731940,Cassidy Meadows,25,Female,Engineering,2.75,2023
+27006371,Elizabeth Obrien,23,Male,Business,3.46,2024
+82000638,Tina Burton,24,Male,Computer Science,3.74,2024
+41197332,Mark Weaver,18,Male,Computer Science,3.22,2024
+7402150,Paul Campbell,21,Other,Psychology,1.75,2024
+10848191,Mark Martinez,25,Male,Computer Science,1.47,2024
+61743158,Erica Davis,24,Other,Computer Science,1.94,2025
+56610373,Michael Hicks,18,Other,Business,1.01,2023
+66694401,Andrea Powers,25,Female,Computer Science,2.15,2025
+84278630,Evan Herring,23,Other,Business,2.47,2024
+67704307,Shane Campbell,24,Male,Computer Science,3.57,2025
+61734857,Brianna Navarro,18,Male,Engineering,2.99,2025
+51068501,Deborah Payne,18,Other,Psychology,1.49,2025
+12175728,Catherine Howard,20,Male,Computer Science,3.7,2023
+50991899,Devin Palmer,24,Female,Engineering,3.6,2024
+55926513,Bryan Olsen,19,Female,Biology,3.36,2023
+91427810,Justin Berry,18,Male,Computer Science,2.64,2023
+67585565,Heather Garcia,20,Male,Biology,1.63,2023
+87092160,Steven Ramirez,21,Male,Engineering,2.91,2023
+98607169,Dr. Nancy Brown,21,Male,Biology,3.51,2025
+37568250,Cameron Wright,25,Female,Engineering,3.69,2025
+28059918,Erin Smith,25,Other,Engineering,1.99,2025
+91719956,Ryan Hughes,21,Male,Business,2.39,2025
+76275178,Robert Vaughn,24,Female,Psychology,2.02,2023
+79579024,Richard Hall,19,Female,Engineering,1.25,2024
+3855756,Amanda Miller,18,Female,Business,2.63,2024
+12485917,James Hill,25,Male,Biology,1.05,2024
+87288176,David Martin,23,Female,Engineering,3.52,2025
+39850960,Nicholas Norton,18,Other,Engineering,2.08,2023
+371638,Tammy Skinner,24,Female,Engineering,1.24,2024
+50987250,Joseph Ellis,21,Male,Engineering,1.65,2023
+10719010,Mitchell Petersen,22,Other,Psychology,2.32,2023
+41693468,John Fox,19,Female,Biology,3.55,2024
+15442356,Johnathan Stevens,19,Female,Biology,2.25,2024
+46142355,Cody Benitez,21,Male,Computer Science,3.53,2023
+22230501,Adam Murphy,20,Male,Biology,1.09,2025
+94929555,Barbara Vasquez,18,Female,Psychology,3.86,2024
+79912091,David Bowman,18,Other,Psychology,2.58,2025
+49214833,Scott Grant,22,Male,Computer Science,1.03,2024
+13868815,Yolanda Duffy,20,Male,Computer Science,2.47,2023
+41681005,Henry Dillon,19,Other,Engineering,3.83,2025
+45180469,Stacey Pace,23,Other,Computer Science,2.62,2024
+23980348,Jason Chambers,24,Other,Computer Science,3.83,2025
+60319606,David Reynolds,19,Female,Psychology,2.18,2025
+89425901,Dawn Mayer,18,Male,Engineering,3.56,2023
+81691723,Amanda Tyler,19,Other,Psychology,3.7,2024
+56119100,Nicholas Barton,23,Female,Engineering,2.89,2025
+23047911,Eric Garcia,20,Female,Biology,1.93,2024
+41435939,Holly Mercado,21,Male,Biology,3.74,2025
+84049457,Elizabeth Robbins,22,Female,Engineering,1.36,2024
+24646785,Brian Wood,20,Other,Computer Science,3.0,2023
+43242609,Bethany Porter,24,Female,Business,2.02,2025
+17892922,Carl Rivera,24,Male,Psychology,2.84,2025
+78738870,Theresa Oneill,20,Male,Engineering,1.63,2024
+9784975,Daniel Nelson,19,Other,Biology,1.05,2024
+24791478,Christine Nguyen,18,Male,Biology,2.37,2025
+37855329,George Clark,25,Female,Biology,1.76,2023
+29294545,Connie Gill,19,Other,Psychology,3.02,2025
+90113422,Christine Thornton,25,Other,Business,1.3,2024
+37899782,John Wright,18,Female,Psychology,2.8,2024
+43694295,Dr. Cameron Williams,18,Male,Business,2.18,2025
+42950193,Maria Davis,22,Female,Computer Science,1.92,2024
+24840138,Tanya Wilson,21,Female,Biology,1.18,2025
+92092095,Donna Green,23,Other,Computer Science,3.87,2023
+54476581,Manuel Mcmahon,21,Female,Engineering,1.19,2023
+90558096,Sandra Gonzalez,20,Female,Business,2.32,2023
+51646448,Joshua Gill,21,Female,Computer Science,3.47,2024
+10320125,Christina Coleman,21,Female,Engineering,2.18,2023
+26348455,Gina Barr,20,Other,Biology,2.49,2023
+37928852,Kristin Shaw,18,Other,Computer Science,1.43,2025
+56560139,Tiffany Taylor,19,Other,Biology,2.21,2023
+9343149,Alvin White,21,Female,Computer Science,1.32,2023
+69262065,Laura Zhang,23,Other,Engineering,1.72,2024
+95243196,Lee Perry,21,Male,Business,3.03,2025
+4558999,Kyle Krause,22,Other,Psychology,3.07,2025
+36110707,Adam Fletcher,18,Other,Psychology,3.69,2025
+82585556,Amy Johnson,22,Other,Psychology,3.83,2025
+47578508,Samuel Knight,23,Female,Biology,3.7,2024
+16892082,Ashley Donaldson,22,Female,Psychology,2.21,2024
+40978348,John Smith,19,Male,Business,2.88,2025
+11723819,Melissa Hernandez,20,Male,Computer Science,3.35,2025
+3053523,Michael Cox,23,Female,Business,2.33,2023
+87549631,Jacob Reyes,22,Other,Computer Science,2.03,2024
+63677141,Patrick Sanders,18,Male,Computer Science,2.01,2023
+46540315,Hayley Brandt,23,Female,Biology,3.54,2024
+89746449,Sharon Moran,25,Female,Computer Science,1.07,2023
+69790953,Noah King,20,Female,Psychology,2.51,2023
+19617150,Kyle Smith,19,Male,Business,1.54,2023
+39359728,Clayton Santiago,23,Other,Biology,3.79,2023
+28757731,David Howard,20,Male,Computer Science,3.66,2023
+98413851,Tonya Sellers,18,Other,Biology,1.34,2025
+37328140,Toni Davis,20,Female,Psychology,1.64,2023
+53138798,Rachel Tucker,23,Other,Biology,1.69,2024
+63410714,Kendra Brooks,21,Male,Business,1.47,2023
+98808147,Gabrielle Dixon,22,Female,Biology,3.09,2025
+84863177,Angela Allen,19,Other,Computer Science,1.04,2023
+11716353,Sabrina Wood,22,Male,Engineering,3.24,2025
+53792244,Stacy Case,21,Female,Engineering,2.98,2024
+199932,Christine Stewart,23,Male,Business,2.55,2023
+34735421,Rebecca Brown,21,Female,Psychology,2.73,2025
+66488885,Allison Soto,25,Female,Psychology,2.0,2023
+79869032,Todd Woodard,21,Other,Engineering,1.49,2025
+75770410,Kaitlyn Jackson,20,Male,Biology,3.02,2025
+22131919,Cynthia Heath,21,Other,Engineering,1.78,2025
+44284278,Debra Schmidt,18,Other,Biology,1.42,2024
+99571045,Beth Thompson,24,Male,Psychology,2.0,2023
+37378879,Diana Hernandez,23,Female,Business,2.47,2024
+92286439,Ashley Pace,24,Female,Engineering,1.42,2024
+6480611,Angelica Moss,18,Other,Psychology,3.86,2023
+7601186,Jacqueline Watson,22,Female,Computer Science,2.36,2023
+97810039,Rachel Pennington,20,Male,Biology,2.8,2025
+43086104,Andrew Rodriguez,23,Female,Psychology,2.64,2023
+77253380,Jennifer Mendoza,19,Male,Business,3.06,2024
+31569731,Mikayla Martinez,24,Female,Biology,1.61,2024
+81516595,Spencer Miller,23,Other,Engineering,3.62,2023
+32064799,Timothy Byrd,22,Female,Engineering,2.61,2023
+17482066,Zachary Estes,24,Other,Psychology,3.42,2025
+53523950,Alicia Henderson,19,Female,Computer Science,1.19,2024
+32626108,Anita Martin,19,Other,Business,2.83,2025
+86518965,Dr. Richard Dorsey,24,Other,Engineering,3.95,2025
+76444835,Julie Foley,18,Female,Psychology,1.53,2024
+46276744,Zachary Brown,22,Male,Biology,3.06,2024
+69292444,Christopher Lopez,18,Male,Engineering,2.89,2023
+12562015,Christie Little,20,Male,Business,1.44,2023
+69076556,Teresa Hayes,21,Female,Biology,1.87,2025
+75729094,Jeremiah Hinton,18,Male,Engineering,2.4,2024
+22475772,Gloria Jacobs,20,Other,Business,3.5,2025
+23075851,Sharon Hawkins,19,Female,Computer Science,1.4,2023
+90689771,Joseph Williams,22,Other,Biology,1.76,2023
+3493623,Devin Walker,18,Female,Business,3.66,2023
+83002494,Carolyn Nelson,18,Female,Computer Science,1.21,2025
+36383265,Joshua Murillo,24,Other,Psychology,2.24,2024
+46496729,Sandra Reeves,24,Male,Psychology,3.49,2023
+1784912,Megan Williams,21,Female,Business,2.74,2023
+68961447,Catherine Peterson,22,Female,Psychology,1.57,2023
+30641650,Cheryl Wilson,22,Other,Biology,2.46,2023
+25307448,Stacy Lambert,21,Male,Computer Science,3.17,2025
+68702291,Jessica Henry,20,Female,Psychology,2.86,2024
+25339564,Melissa Garcia,22,Female,Engineering,3.3,2023
+88939169,David Trevino,18,Female,Business,2.5,2024
+29925208,Michelle Nelson,20,Female,Biology,1.16,2024
+94012696,Isaac Larson,23,Female,Business,2.12,2025
+4458554,Christine Goodman,20,Other,Computer Science,2.57,2025
+29728463,Samantha Watkins,24,Other,Computer Science,1.63,2024
+41955233,Anthony Gonzalez,25,Male,Computer Science,3.54,2023
+88898686,Monica Huffman MD,24,Male,Business,2.44,2023
+97093277,Natalie Craig,25,Other,Engineering,2.2,2023
+80174752,Kimberly Ford,18,Female,Psychology,1.96,2025
+18124996,Jennifer Walsh,21,Male,Engineering,3.95,2025
+62628707,Andrew Mathis,24,Female,Psychology,2.04,2025
+97506481,Heather Acosta,25,Male,Psychology,1.27,2025
+87840245,Jimmy Ibarra,20,Other,Engineering,3.64,2025
+34885969,John Hartman,19,Female,Business,2.78,2024
+26009829,Joshua Castillo,18,Female,Biology,3.88,2025
+39710352,Natalie Mills,18,Male,Engineering,3.1,2025
+87722525,Michael Brown MD,20,Female,Business,3.11,2023
+85912319,Elizabeth Andrade,18,Other,Computer Science,1.26,2023
+42967146,Richard Mitchell,21,Other,Computer Science,1.05,2024
+45040814,Sherry Santana,19,Female,Biology,2.54,2023
+73932920,William Martinez,18,Female,Business,1.42,2023
+73368714,Matthew Mayo,22,Other,Engineering,2.15,2024
+96650872,Austin Dillon,19,Male,Business,2.81,2023
+55711610,Devin Johnson,20,Female,Computer Science,2.58,2025
+80149258,Michael Lane,18,Other,Psychology,2.6,2023
+45891726,Laura Bullock,22,Male,Psychology,2.2,2024
+93921436,Nicole Floyd,20,Female,Engineering,1.99,2024
+51079780,Eric Williams,18,Other,Biology,2.62,2023
+19294370,Cindy Davis,23,Male,Computer Science,1.88,2025
+51819989,Tracy Morgan,25,Male,Computer Science,3.67,2023
+4031673,Christopher Harrington,24,Male,Psychology,1.43,2024
+43513372,Jose Hunter,23,Male,Biology,1.37,2023
+88617931,Mark Allen,21,Male,Computer Science,2.89,2023
+98305193,Darren Gonzalez,18,Female,Psychology,3.39,2024
+64181472,Elizabeth Brown,18,Male,Biology,2.48,2023
+78250739,Melissa Morton,23,Male,Business,2.43,2023
+86911825,Daniel Harrell,25,Male,Computer Science,3.71,2024
+36286510,Cindy Kennedy,21,Other,Psychology,3.85,2024
+47025479,Adam Bradley,21,Male,Computer Science,2.08,2023
+95843973,Brittany Vasquez,24,Male,Psychology,3.35,2023
+7635053,Dana Berger,22,Other,Engineering,1.65,2023
+72974094,Michael Moon,20,Other,Engineering,2.17,2025
+23072824,Tracy Garcia,19,Female,Psychology,2.67,2024
+40187575,John Simmons,25,Other,Biology,1.57,2023
+80160648,Kenneth Phelps,22,Other,Biology,1.69,2025
+60484173,Michaela Scott,19,Other,Engineering,2.75,2025
+67382116,Jonathan Martinez,24,Female,Computer Science,3.17,2023
+61825892,Kara Esparza,21,Male,Psychology,1.85,2023
+79893630,Debra Haney,22,Male,Biology,2.03,2025
+82424040,Dawn Lyons,22,Male,Biology,1.59,2023
+57938179,Robert Stevenson,20,Male,Computer Science,2.11,2024
+68455945,Jessica Stewart,22,Other,Psychology,3.35,2023
+10035563,Erica Porter,19,Other,Psychology,2.59,2025
+52303328,Diane Cunningham,18,Other,Biology,3.64,2023
+23271568,Kelly Campos,21,Male,Biology,2.81,2025
+39271056,James Hartman,20,Female,Computer Science,1.12,2025
+17997259,Lydia Avila,21,Male,Business,1.93,2024
+68090171,Alison Munoz,25,Female,Computer Science,1.05,2023
+37660975,Nicole Marshall,24,Male,Psychology,2.41,2023
+47675965,Troy Sandoval,18,Other,Psychology,3.31,2023
+95144243,April Burgess,23,Other,Business,3.69,2025
+43691244,Jeffrey Turner,24,Male,Psychology,1.84,2023
+17375871,Diane Wu,19,Male,Business,1.27,2024
+36071158,Rodney Klein,19,Female,Business,2.93,2024
+98476708,Michael Tucker,24,Female,Biology,1.48,2024
+24256364,Manuel Guerrero,25,Other,Psychology,3.49,2024
+54184632,Oscar Mclaughlin,20,Other,Psychology,1.62,2023
+27125403,Bethany Harrison,20,Female,Psychology,3.45,2024
+94320271,Brandy Sanchez,25,Other,Engineering,3.89,2023
+74730832,Stephen Allen,23,Female,Psychology,1.23,2025
+77540723,Jose Hernandez,21,Male,Computer Science,2.56,2023
+70499208,John Franco,25,Male,Computer Science,3.08,2023
+74755537,Miguel Zuniga,20,Other,Biology,2.63,2023
+74415959,Gregory Cooper,25,Male,Business,3.11,2025
+19387419,Derrick May,18,Female,Business,1.46,2025
+72343520,Elizabeth Walters,24,Other,Business,1.47,2024
+32685376,Savannah Davis,19,Female,Engineering,2.5,2023
+7463182,Mark Perkins,19,Other,Psychology,2.58,2023
+1718488,John Wells,19,Male,Business,3.42,2024
+27562105,Joseph Johnson,21,Other,Biology,2.2,2024
+31220473,Jeremy Elliott,22,Male,Biology,3.5,2023
+74986427,Cory Hughes,22,Male,Computer Science,1.37,2025
+61366217,Ellen Long,18,Male,Psychology,2.65,2025
+46149460,Aaron Taylor,20,Female,Engineering,1.89,2025
+50370685,Leah Ward,24,Other,Business,3.97,2023
+58501371,Richard Williams,25,Other,Biology,3.29,2023
+4698358,Brianna Weaver,22,Female,Psychology,2.55,2023
+17165885,Ebony Thomas,21,Male,Computer Science,3.19,2024
+36653833,Dwayne David,18,Female,Business,1.26,2023
+58557784,Jason Valencia,19,Other,Computer Science,1.25,2025
+59755455,Jenna Stewart,22,Male,Engineering,1.66,2024
+86206683,Samantha Eaton,23,Male,Business,2.85,2024
+83861739,James Rush,25,Male,Psychology,2.97,2023
+46184037,Craig Lee,23,Other,Business,1.03,2024
+19763951,Daniel Baker,20,Other,Biology,2.63,2025
+41009206,Gilbert Miller,18,Other,Computer Science,2.28,2023
+34862259,Daniel Flores,23,Male,Biology,1.17,2025
+6544709,Mary White,18,Male,Engineering,1.74,2025
+11680442,Stephen Johnson,19,Female,Computer Science,2.19,2024
+43596222,Brandon Wilson,24,Male,Psychology,2.34,2025
+70192723,Melissa Pham,24,Other,Biology,3.85,2025
+41254167,Marcus Williams,20,Other,Biology,1.44,2024
+26547165,Kathryn Dixon,25,Female,Computer Science,2.29,2023
+52298299,Marcus Wagner,23,Female,Psychology,1.8,2024
+5295420,Amy Arnold,22,Other,Biology,3.95,2023
+5664921,Richard Bates,24,Other,Engineering,3.19,2023
+208264,Rebecca Watts,24,Female,Engineering,2.24,2023
+30983076,Justin Torres,24,Male,Business,3.06,2025
+77462123,Kyle Huerta,21,Female,Biology,1.54,2023
+31478996,Danielle Fry,19,Female,Engineering,3.99,2023
+76709717,Richard Byrd,20,Other,Business,2.94,2025
+5615993,Shane Proctor,19,Male,Psychology,2.84,2023
+89023407,Juan Nicholson,20,Male,Psychology,3.9,2024
+82873133,Denise Adams,23,Female,Engineering,3.95,2023
+39304845,Erin Powell DVM,22,Female,Psychology,2.43,2023
+14436399,Gabriela Nelson,22,Female,Computer Science,1.91,2024
+97552285,Kristen Monroe,22,Male,Computer Science,2.17,2023
+93466753,Christopher Gonzales,22,Other,Engineering,1.39,2025
+8622371,Michelle Davis,18,Male,Psychology,1.55,2023
+85853737,Jacob Horn,18,Female,Business,2.89,2025
+50830418,Mr. Paul Higgins,22,Male,Engineering,1.12,2023
+17235163,Robert Small,23,Female,Computer Science,1.03,2024
+78591297,Mrs. Rebecca Wells,23,Other,Biology,3.57,2025
+32560868,Jason Morris,24,Male,Psychology,1.3,2025
+58556893,Duane Nash,25,Male,Business,1.56,2024
+94165040,Jonathon Jones,22,Other,Computer Science,2.42,2025
+24568775,Rachel Miller,19,Other,Business,1.2,2023
+8737853,Beth Hendrix,18,Female,Engineering,2.8,2023
+41744817,Priscilla Matthews,25,Male,Engineering,1.93,2024
+26295218,Heather Ochoa,24,Male,Psychology,2.33,2025
+41517601,Taylor Herrera,24,Other,Computer Science,1.62,2025
+57306405,Tina Grant,19,Other,Psychology,2.33,2025
+6340213,Michelle Brown,22,Other,Business,2.51,2023
+18522991,Chad Serrano,25,Male,Psychology,1.64,2024
+75831963,John Johnson,24,Female,Psychology,2.54,2024
+59878371,Veronica Patel,25,Other,Psychology,1.33,2024
+34245969,Kaylee Avila,23,Other,Engineering,3.53,2023
+46345166,Robin Chan,18,Other,Business,3.33,2024
+48480246,Robert Burke,23,Female,Psychology,2.53,2024
+47377685,Richard Nunez,18,Other,Computer Science,1.77,2024
+11440791,Susan Stephenson,22,Other,Computer Science,2.28,2024
+87731417,Keith Mills,23,Female,Psychology,2.89,2025
+13863382,David Moore,25,Other,Biology,2.79,2025
+30966531,Timothy Nielsen,25,Other,Engineering,1.21,2024
+74501167,William Anderson,18,Other,Business,1.57,2024
+55902906,Brandon Smith,19,Female,Computer Science,2.41,2024
+56862223,Dr. Amy Williams,23,Male,Business,1.72,2025
+72869428,Edward White,23,Male,Computer Science,1.49,2025
+22191268,Penny Snyder,20,Female,Biology,1.43,2023
+28479336,Cheryl Owens,25,Other,Psychology,3.69,2023
+74116542,Mr. Dustin Turner,22,Other,Computer Science,2.34,2023
+49509255,Heather Navarro,25,Other,Psychology,2.35,2023
+74839164,Eric Salazar,21,Female,Psychology,3.18,2024
+81766193,Mindy Evans,19,Female,Engineering,2.08,2023
+50780810,Daniel King,19,Female,Computer Science,3.74,2023
+16006202,Beth Reed,25,Female,Psychology,1.66,2024
+81002045,Alexandra Burns,18,Other,Psychology,1.99,2025
+40242671,Jennifer Franklin,21,Male,Business,3.89,2024
+19819221,John Richards,18,Female,Psychology,3.16,2023
+34497400,April Leach,24,Other,Engineering,3.63,2025
+15198211,Taylor Jones,19,Female,Business,3.65,2025
+33978345,Angelica Cooley,21,Male,Psychology,3.62,2025
+88563874,Amanda Schneider,24,Male,Psychology,3.62,2025
+10626533,Lynn Rogers,22,Female,Engineering,3.34,2023
+33200850,Brandy Kelley,21,Male,Business,2.4,2025
+16452231,Jon Cox,22,Female,Computer Science,1.59,2024
+40497197,Dominic Fletcher,23,Female,Engineering,3.03,2023
+36236805,Cameron Diaz,22,Female,Engineering,2.36,2025
+17742317,Jennifer Moyer,19,Male,Psychology,3.55,2024
+97633823,Lauren Moore,21,Female,Engineering,2.04,2025
+40295086,Joseph Wagner,25,Female,Engineering,1.09,2024
+53728796,Robert Mcgrath,19,Female,Computer Science,3.16,2023
+75785330,Tamara Ramirez,21,Female,Biology,3.54,2023
+66112190,Thomas Webb,22,Other,Engineering,1.21,2023
+89628270,Henry Spencer,18,Other,Business,3.81,2024
+92784509,Joshua Burns,22,Female,Computer Science,3.52,2025
+78737002,Kevin Thomas MD,24,Other,Computer Science,3.31,2025
+58790589,Scott Hernandez IV,22,Female,Psychology,1.02,2025
+1636762,Jennifer Fernandez,23,Female,Computer Science,1.76,2024
+48269579,Gary Molina,18,Other,Psychology,3.66,2023
+99135691,Amanda Lewis,23,Male,Business,3.84,2025
+80205557,Michael Griffin,22,Female,Psychology,1.5,2024
+89791890,Eric Gomez,23,Female,Psychology,3.22,2023
+59473628,Victoria Rogers,19,Other,Biology,1.72,2025
+6100785,Jon Scott,22,Other,Engineering,2.49,2025
+26342694,Brian Hernandez,25,Female,Psychology,2.46,2024
+31932285,Dillon Mcbride,20,Male,Business,1.31,2024
+62497342,Jeffrey Black,24,Male,Engineering,2.56,2025
+30368281,Mark Riley,21,Male,Business,1.77,2024
+49014686,Katherine Cole,25,Male,Computer Science,1.97,2023
+86853647,Taylor Hall,25,Other,Psychology,1.61,2025
+99964982,Theresa Mason,22,Male,Engineering,2.16,2023
+95274469,Philip Martin,23,Male,Business,2.34,2024
+30311581,William Zimmerman,18,Male,Psychology,3.65,2024
+50907094,Sarah Allen,23,Male,Psychology,2.67,2024
+90189540,Christopher Mitchell,19,Male,Computer Science,2.22,2025
+99290235,Emily Freeman,18,Other,Computer Science,3.56,2024
+79420922,Amber Erickson,25,Other,Engineering,3.79,2024
+8027538,James Pruitt,18,Male,Business,2.82,2023
+8580477,Sean Hammond,25,Other,Computer Science,2.28,2023
+75556311,Kristin Lutz,18,Other,Business,3.91,2025
+41040026,Sally Graham,24,Female,Biology,2.81,2025
+44653899,Amanda Jimenez,19,Male,Business,2.1,2025
+17965571,Nicholas Pennington,19,Female,Biology,3.14,2024
+80097187,Patricia Santos,20,Female,Psychology,1.71,2025
+94669573,Joshua Hardin,20,Female,Business,2.12,2025
+53977321,Thomas Mendoza,25,Female,Biology,2.94,2023
+35404,Douglas Cooper,25,Female,Business,2.8,2023
+47110742,Paula Barron,24,Female,Computer Science,2.78,2025
+68268821,Heather Little,23,Female,Psychology,3.44,2023
+46752274,Shannon Johnson,22,Male,Engineering,3.61,2025
+35736358,Timothy Ellison,24,Female,Biology,3.29,2024
+9671406,Cassandra Jackson,20,Male,Engineering,1.82,2023
+40743574,Clifford Simon,19,Male,Biology,1.14,2023
+87155764,Jonathan Keller,18,Female,Engineering,2.4,2023
+26234979,Alan Martinez,22,Male,Business,2.1,2024
+60405296,Noah Finley,23,Other,Psychology,3.33,2025
+35470192,Andrew Richardson,19,Female,Biology,2.62,2024
+52140855,Andrew Williams,22,Other,Psychology,1.66,2024
+63601030,Amanda Kramer,20,Other,Psychology,3.95,2024
+33864964,Michael Williams,24,Female,Biology,2.92,2023
+97467502,William Hooper,24,Other,Biology,1.43,2023
+87808902,Linda Ritter,21,Male,Psychology,2.99,2025
+49150918,Michael Rogers,25,Male,Psychology,1.5,2024
+16203827,Andrew Brown,21,Male,Business,2.25,2025
+65274150,Jack Martinez,21,Female,Computer Science,2.26,2024
+33208252,Megan Lynch MD,20,Other,Engineering,2.96,2025
+29885886,Jeremy Nguyen,25,Female,Business,2.95,2024
+97027655,Jay Scott,21,Female,Business,1.56,2025
+42155665,Dawn Blevins,18,Male,Engineering,1.72,2025
+475788,Daniel Santos,18,Female,Engineering,3.74,2023
+5299674,Frederick Payne,22,Female,Psychology,2.33,2023
+51964675,Scott Spears,18,Other,Engineering,3.41,2024
+9858785,Heidi Kelly,20,Female,Biology,2.29,2024
+53754792,Jared Moran,21,Female,Computer Science,1.62,2025
+9072106,Hannah Smith,24,Male,Computer Science,1.8,2023
+38689313,Annette Bowers,20,Male,Engineering,1.38,2025
+43544922,Dr. Collin Roberts,22,Other,Computer Science,1.79,2023
+56840229,Michael Cooper,22,Female,Biology,2.59,2025
+40391554,Nicole Barrera,21,Male,Psychology,2.61,2024
+7429029,Carol Frazier,19,Male,Engineering,2.69,2023
+69042336,Tyler Jones,21,Female,Business,2.73,2025
+83698941,Mason Lewis,18,Male,Computer Science,3.2,2025
+7386527,Mrs. Jennifer Novak DDS,21,Female,Psychology,1.74,2024
+57170147,Lisa Ferrell MD,24,Other,Computer Science,1.67,2025
+61051373,Kimberly Nelson,24,Other,Business,2.94,2025
+94628020,Kevin White,19,Male,Psychology,3.69,2024
+20583990,Richard Hale,18,Female,Computer Science,2.83,2024
+95900375,Ronald Castillo,20,Male,Biology,1.35,2023
+11228715,Amanda Stevens,25,Male,Psychology,2.62,2023
+66790651,April Flores,22,Male,Psychology,1.57,2024
+63667121,Mary Bowers,22,Female,Computer Science,2.58,2024
+34320456,Jennifer Phillips DVM,19,Other,Psychology,1.1,2025
+69246206,Dr. Joshua Richardson II,19,Other,Engineering,1.03,2024
+79848493,David Washington,25,Female,Business,2.99,2025
+86909384,Christopher Henry,23,Female,Psychology,3.37,2023
+58894267,Cheryl Dixon,19,Female,Business,3.07,2023
+77619803,Natalie Smith,18,Female,Computer Science,3.86,2024
+52004373,Robert Miller,19,Female,Biology,3.21,2025
+6278051,Christopher King,21,Other,Biology,1.75,2023
+31698778,Brittany Guerra,22,Other,Computer Science,2.65,2023
+67503068,Jessica Wells,22,Other,Computer Science,2.49,2023
+68046442,Kimberly Johnson,18,Male,Computer Science,3.64,2023
+56156065,Matthew Perez,24,Other,Engineering,1.77,2025
+80270705,Anna Kennedy,25,Other,Business,1.95,2024
+75063111,Beth Hood,25,Other,Computer Science,3.12,2024
+91319061,Tonya Miller,20,Male,Business,1.21,2023
+79890766,Sara Rios,18,Other,Business,2.79,2025
+52482118,Ryan Rivera,19,Other,Biology,3.49,2025
+49087703,April Weaver,24,Other,Engineering,1.4,2023
+4127294,Timothy Anderson,20,Female,Business,3.56,2023
+53064909,Douglas Bradley,24,Other,Biology,2.13,2023
+27889720,Brenda Sherman,23,Female,Business,3.94,2025
+24902779,Jennifer Barber,22,Other,Computer Science,1.93,2025
+30585780,Jennifer Hunter,19,Other,Business,1.69,2025
+25376075,Scott Gonzales,20,Male,Psychology,2.5,2023
+77793156,Lindsay Perry,21,Other,Computer Science,1.2,2024
+73881420,Richard Campbell,22,Female,Business,2.53,2025
+5564522,Mary Hayes,25,Female,Biology,2.38,2025
+50811443,Lauren Harris,21,Male,Biology,1.17,2025
+47827092,Elizabeth Norton,19,Other,Business,1.19,2025
+41039843,Christy Perez,25,Male,Engineering,3.16,2024
+93505620,Joseph Sanchez,24,Male,Biology,1.61,2025
+43899285,Phillip Wilson,20,Male,Business,1.98,2023
+28880764,Sara Carroll,22,Female,Computer Science,1.83,2023
+80210081,Dr. Anna Odonnell,24,Other,Psychology,1.16,2023
+5603964,Lynn Watts,19,Male,Engineering,3.67,2023
+13775009,Melissa Chan,20,Male,Biology,1.81,2023
+47990397,Raymond Soto,21,Male,Psychology,2.09,2024
+20521344,Alexis Hobbs,25,Other,Engineering,2.63,2025
+28702669,Luis Hickman,20,Other,Psychology,2.5,2024
+24927967,Patrick Smith,23,Female,Engineering,1.39,2023
+82295462,Cameron Peterson,23,Male,Biology,2.17,2025
+34612966,Cynthia West,22,Female,Business,1.95,2025
+14697705,Debra Potter,21,Other,Business,2.76,2025
+15039899,Jennifer Lowe,24,Other,Engineering,3.55,2025
+78757235,Christian Crawford,18,Male,Psychology,1.32,2023
+60032962,Tracy Kelly,21,Female,Engineering,3.48,2023
+43100146,Mark Thomas,21,Female,Biology,1.11,2023
+62470293,Mark Thomas,25,Other,Engineering,3.69,2025
+68785230,Jesse Gregory,19,Female,Business,3.88,2023
+7077347,Brandi Ryan,20,Female,Biology,2.77,2023
+50471772,Steven Wells,24,Female,Psychology,3.21,2023
+56414524,Jason Edwards,23,Female,Biology,3.88,2025
+51304595,Jamie Soto MD,21,Male,Psychology,1.2,2023
+5461845,Nicole Jones,20,Male,Computer Science,3.06,2025
+66260355,William Robinson,19,Other,Engineering,2.06,2024
+36844925,Laura Pennington,24,Female,Business,3.0,2024
+32172112,Michelle Wong,18,Other,Biology,1.51,2024
+16467420,Andrew Rodriguez,22,Male,Computer Science,2.68,2023
+48487097,Tara Lewis,24,Female,Psychology,2.86,2024
+39809167,Jasmine Miller,23,Female,Psychology,1.87,2024
+67333122,Michael Rose,22,Female,Biology,3.15,2023
+91704962,John Jones,24,Male,Psychology,3.16,2025
+33195769,Bradley Cuevas,22,Male,Psychology,1.3,2025
+37580012,John David,21,Male,Engineering,2.18,2024
+76779637,Cathy Travis,18,Male,Business,3.3,2025
+36723001,David Webb,18,Other,Psychology,1.31,2023
+52016211,Anthony George,20,Female,Computer Science,3.67,2023
+66643317,Tracy Lucas,21,Other,Biology,2.79,2023
+81718899,Andrew Glover,25,Other,Psychology,2.96,2023
+97818751,Jeremy Hubbard,19,Other,Biology,1.84,2025
+4944532,Donna Reyes,23,Other,Computer Science,3.48,2023
+45516659,Bryan Foster,20,Other,Computer Science,2.09,2025
+31111427,Abigail Archer,24,Male,Computer Science,2.01,2025
+40776700,Andrew Mendoza,25,Other,Computer Science,3.29,2023
+41735691,Samantha Myers,19,Male,Business,2.01,2024
+24009642,Charles Smith,24,Other,Engineering,1.82,2024
+31447684,Dorothy Rowe,22,Male,Computer Science,1.94,2023
+19254533,Mr. Thomas Medina Jr.,22,Male,Business,2.61,2025
+94890801,James Riggs,22,Female,Engineering,3.41,2024
+54331997,Raymond Cordova,23,Female,Computer Science,2.98,2024
+58740897,Johnathan Davis,23,Female,Engineering,3.1,2024
+3421282,Justin Lane,22,Male,Computer Science,2.36,2023
+43478787,Mandy Grant,21,Female,Biology,2.34,2024
+33813809,Wesley Miller,22,Other,Engineering,3.34,2025
+41412102,Tracy Fernandez,18,Other,Engineering,3.64,2024
+13437310,Carolyn Oliver,19,Female,Psychology,1.37,2023
+86677269,James Smith,22,Female,Psychology,3.3,2025
+75470796,Richard Miller,25,Female,Computer Science,2.49,2025
+32981529,Tommy Moore,22,Female,Psychology,2.23,2024
+17889382,Richard Miller,18,Female,Biology,2.71,2025
+98951896,Dr. Robert Wells,21,Female,Business,3.65,2023
+78355725,Alexander Perez,20,Female,Computer Science,1.7,2025
+96832123,Robert Wilson,22,Female,Psychology,2.91,2024
+53039879,Michael Roth,23,Male,Business,3.72,2023
+20254780,Sue Little,24,Other,Business,3.43,2024
+19885035,Samuel Barnett,24,Other,Engineering,1.21,2023
+96772500,David Whitehead MD,23,Male,Engineering,1.73,2023
+97556183,Amanda Gray,24,Female,Biology,2.56,2023
+40439272,Betty Owen,24,Female,Engineering,1.85,2025
+55323743,Lindsey Padilla,21,Male,Psychology,3.33,2024
+86001389,Deborah Thomas,23,Female,Business,1.33,2025
+93364539,Carl Hall,22,Female,Computer Science,3.65,2023
+65962652,Erin Armstrong,22,Female,Engineering,2.95,2025
+57703582,Christopher Cole,18,Other,Business,1.14,2023
+375013,Tara Taylor,21,Female,Biology,3.18,2023
+95513155,Matthew Robinson,23,Other,Business,3.07,2023
+71241802,Rebecca Martinez,25,Male,Computer Science,1.19,2025
+19600690,Holly Jones,24,Other,Biology,2.46,2024
+74573634,Alexander Douglas,19,Male,Psychology,1.59,2024
+73890916,Andrea Williams,24,Other,Psychology,1.2,2024
+31597665,Randall Diaz,21,Female,Biology,3.62,2024
+86545633,Michelle Jackson,19,Other,Biology,1.64,2025
+72730356,Andrew Bennett,25,Female,Psychology,2.88,2025
+66778265,Ronald Price,21,Male,Biology,2.71,2024
+20551456,Lisa Thompson,19,Other,Computer Science,3.28,2023
+9869734,Joan Garrison,25,Female,Computer Science,3.66,2023
+28730583,Susan Ferguson,18,Male,Business,2.11,2023
+53966802,Annette Mason,21,Male,Psychology,3.01,2024
+38005493,Derek Bell,23,Female,Engineering,3.93,2024
+15976669,Mary Sanchez,21,Male,Computer Science,2.9,2023
+69473152,Mark Hill,25,Female,Computer Science,1.37,2024
+87085200,Gregory Lewis,20,Female,Computer Science,3.76,2023
+65465702,Karen Williams,18,Other,Computer Science,1.82,2024
+95213170,Larry Ward,23,Male,Engineering,1.17,2024
+17108909,Mrs. Sarah Reynolds DDS,19,Female,Engineering,1.03,2025
+6518500,Carrie Lucero,25,Other,Business,3.25,2025
+96605071,Tammy Sullivan,20,Other,Engineering,2.88,2023
+40248974,Cesar Bell,25,Other,Psychology,1.79,2023
+19320033,Rachel Hall,25,Female,Business,3.14,2023
+12258255,Lee Rivera,19,Other,Computer Science,2.91,2023
+90055354,Mark Larson,25,Female,Psychology,2.69,2024
+18911778,Steven Douglas,21,Male,Psychology,1.76,2023
+79214208,Kathleen Anderson,21,Other,Computer Science,3.21,2023
+71138391,Michael Fleming,22,Female,Psychology,3.68,2024
+28778789,Jacob Jones,21,Female,Computer Science,2.89,2024
+92597327,Victoria Miller,25,Female,Engineering,2.42,2024
+51232211,Ashley Butler,19,Male,Engineering,2.27,2023
+45221407,Corey Vargas,23,Other,Business,3.68,2025
+73237809,Christopher Silva,25,Other,Biology,1.09,2025
+20390641,Lisa Cruz,18,Other,Business,2.2,2023
+33027279,Eric Brown,20,Other,Engineering,3.14,2024
+22133412,Thomas Nelson,20,Female,Business,2.96,2025
+87039940,Kevin Hunt,25,Female,Biology,2.59,2023
+66608705,Jodi Mercado,18,Female,Business,3.09,2023
+13636633,Jennifer White,21,Male,Business,1.13,2024
+93476144,Samuel Brown,21,Other,Business,1.31,2023
+26099627,Zachary Patel,22,Female,Business,2.1,2024
+60502358,Jonathan Gonzalez,23,Female,Psychology,1.16,2023
+92434199,Ryan Blake,25,Female,Engineering,3.45,2023
+49150126,David Moore,20,Other,Business,2.81,2025
+94137072,George Dominguez,21,Male,Psychology,3.84,2023
+47987137,Andrew Solis,21,Other,Biology,3.25,2023
+91118903,Tiffany Thomas,25,Female,Business,4.0,2024
+21138246,Barbara Castillo,22,Female,Psychology,2.34,2024
+47109583,James Poole,21,Other,Psychology,2.27,2023
+34980404,Mrs. Valerie Lee,24,Female,Computer Science,3.96,2023
+73641853,Charles Rios,19,Male,Engineering,1.42,2025
+67694640,Lindsay Zimmerman,20,Male,Engineering,2.45,2025
+75906671,Kevin Barnett,23,Male,Biology,3.51,2025
+4319738,Thomas Johnston,20,Female,Biology,1.16,2024
+95692718,Jeremy Henry,21,Female,Computer Science,1.45,2025
+74333514,Steven Burton,22,Male,Computer Science,1.48,2023
+21145029,Diana Torres,22,Male,Business,3.68,2024
+28723798,Teresa Barnes,20,Male,Biology,3.77,2025
+35755794,Olivia Friedman,25,Female,Psychology,1.65,2024
+84699495,Haley Morgan,23,Female,Business,1.92,2023
+92265615,Michael Fisher,19,Other,Biology,2.51,2023
+82311254,Kenneth Cook,21,Male,Computer Science,3.35,2025
+5588107,Heather Watkins,18,Female,Business,1.71,2024
+63775973,Gary Melton,19,Male,Engineering,1.63,2024
+13966360,Michael Spencer,20,Other,Psychology,3.52,2023
+96529267,Brandi Leblanc,20,Female,Computer Science,3.32,2025
+67767668,James Shannon,23,Male,Engineering,3.39,2024
+47739876,Jeffrey Washington,19,Female,Computer Science,2.55,2025
+2782425,John Fuller,18,Female,Engineering,3.35,2023
+45537242,Kimberly Barker,18,Other,Psychology,2.37,2024
+20088859,Stacey Mccarthy,18,Male,Engineering,1.35,2024
+49233682,Jessica Webster,18,Female,Business,2.96,2025
+29616096,Mr. Jake Burke,24,Female,Computer Science,2.86,2025
+98603744,Darrell Davis,22,Other,Engineering,2.62,2023
+78544726,Manuel Ford,20,Male,Biology,3.27,2024
+71417092,Christopher Fletcher,22,Male,Computer Science,3.78,2024
+50415021,Mark Mitchell,18,Other,Biology,2.77,2024
+79384354,Joseph Cooper,19,Male,Biology,3.92,2024
+59283186,Brenda Wilkerson,23,Other,Biology,3.59,2025
+70331951,Stacy Chavez,24,Male,Engineering,2.02,2024
+45176380,Madison Brown,22,Female,Business,3.67,2024
+71446272,Jorge Gordon,18,Female,Computer Science,2.37,2024
+65145908,Mrs. Heather Watson,22,Other,Biology,3.07,2023
+94436221,Catherine Whitney,19,Female,Business,1.86,2024
+83024389,Ellen Perez,23,Male,Biology,4.0,2023
+94940450,Elizabeth Roberts MD,18,Male,Biology,2.19,2025
+57486665,Austin Gonzalez,20,Female,Business,1.42,2023
+14189699,Deborah Glenn,20,Male,Biology,2.35,2024
+17191664,Kristin Sparks,18,Male,Business,2.0,2024
+48985666,Steven Jones,24,Female,Computer Science,2.47,2025
+73084877,Wendy Browning,21,Female,Computer Science,2.51,2023
+97812851,Jade Richardson,19,Female,Engineering,3.93,2023
+69832740,Nicole Murphy,22,Male,Engineering,3.6,2023
+65810713,Jackson Hayes,24,Male,Business,3.16,2024
+74787294,Melissa Owens,23,Male,Engineering,1.04,2025
+82742640,Teresa Lopez,23,Male,Psychology,1.61,2024
+86616789,Joshua Alvarado,21,Female,Business,2.86,2023
+69490146,Susan Hardy,22,Male,Biology,1.26,2023
+22454048,Daniel Jennings,21,Other,Computer Science,3.4,2023
+28239334,Richard Smith,25,Female,Biology,2.11,2025
+32690282,Michael Valdez,18,Other,Business,1.28,2025
+91243470,Kevin Ayala,25,Male,Biology,1.04,2025
+93636348,Joshua Ayers,24,Other,Psychology,1.5,2024
+53444198,Jennifer Skinner,24,Male,Biology,1.46,2023
+70708585,Alvin Lewis,23,Other,Biology,1.81,2023
+68053948,Jonathan Meadows,22,Male,Business,3.52,2025
+7384292,Jonathan Hernandez,18,Female,Engineering,3.93,2024
+86184414,Casey Eaton,19,Male,Biology,1.09,2025
+74739626,Keith Arnold,22,Other,Biology,1.96,2023
+15384693,Rick Bryant,25,Male,Psychology,2.07,2023
+14070656,Gerald Anderson,20,Other,Psychology,2.29,2023
+39624630,Brandon Hammond,23,Other,Computer Science,2.38,2024
+72609313,Jennifer Russo,22,Female,Business,3.4,2023
+46253429,Michael Harrell,23,Other,Computer Science,1.6,2025
+26158501,Meghan Dennis,22,Other,Biology,1.18,2024
+43479941,Emily Miller,19,Female,Biology,2.3,2025
+11522332,Nicole Stephens,20,Male,Psychology,3.32,2025
+46857847,Scott Baker,23,Other,Computer Science,3.21,2025
+9935397,Christine Harrison,18,Other,Engineering,3.4,2025
+38971032,Gabrielle Horn,21,Female,Computer Science,1.38,2024
+87321283,Melanie Williams,24,Male,Engineering,3.72,2025
+14398075,Melanie Kent,24,Male,Engineering,2.08,2023
+75385127,Lindsay Tucker,20,Male,Engineering,1.9,2023
+28444537,Mrs. Cynthia Raymond,25,Female,Computer Science,3.97,2024
+57567943,Mrs. Amy Smith,21,Male,Business,3.07,2023
+91175960,Adam Diaz,20,Male,Business,2.71,2024
